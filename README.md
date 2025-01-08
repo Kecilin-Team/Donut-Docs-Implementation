@@ -3,7 +3,9 @@ This repository utilizes Donut (Document Understanding Transformer) for informat
 Document Types are:
 
 • Decree_On_Implementation.
+
 • Military_Education_Certificate.
+
 • Rank_Promotion_Degree.
 ______________________________
 ### [UPDATE]
