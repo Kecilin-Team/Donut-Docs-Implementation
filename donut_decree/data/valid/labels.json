@@ -1,0 +1,34 @@
+[
+    {
+        "file_name": "518832.5.10.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT KEPUTUSAN\", \"Date_Appointed_to_New_Position\": \"22 JANUARI 2003\"}}"
+    },
+    {
+        "file_name": "518832.5.18.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT KEPUTUSAN\", \"Date_Appointed_to_New_Position\": \"29 SEPTEMBER 2000\"}}"
+    },
+    {
+        "file_name": "518832.5.29.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"KEPUTUSAN KEPALA STAF ANGKATAN UDARA\", \"Date_Appointed_to_New_Position\": \"15 DESEMBER 2011\"}}"
+    },
+    {
+        "file_name": "518832.5.30.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT PERINTAH\", \"Date_Appointed_to_New_Position\": \"13 MEI 2020\"}}"
+    },
+    {
+        "file_name": "520277.5.3.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT KEPUTUSAN\", \"Date_Appointed_to_New_Position\": \"9 SEPTEMBER 1999\"}}"
+    },
+    {
+        "file_name": "520277.5.14.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"DAFATR NAMA PERWIRA TNI-AU YANG DIBERHENTIKAN DARI DAN DIANGKAT DALAM JABATAN\", \"Name\": \"DEDY CAHYADI\", \"Previous_Position\": \"PAMA WINGDIKTEKKAL KJT\", \"New_Position\": \"PATEK SKATEK 024 LANUD ATS\", \"Date_Appointed_to_New_Position\": \"25 APRIL 1998\"}}"
+    },
+    {
+        "file_name": "521757.5.1.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT PERINTAH\"}}"
+    },
+    {
+        "file_name": "534030.5.2.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Name\": \"YUNIKA MARLIA PUSPITANINGRUM\", \"Previous_Position\": \"ANGGOTA SKADIK 405 LANUD SMO\", \"New_Position\": \"ANGGOTA MAPAMAU\", \"Date_Appointed_to_New_Position\": \"5 JULY 2006\"}}"
+    }
+]

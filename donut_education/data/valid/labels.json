@@ -1,0 +1,10 @@
+[
+    {
+        "file_name": "520266.3.2.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH\", \"Name\": \"RUDITO DWI WIBOWO\", \"Rank\": \"TARUNA AKADEMI TNI ANGKATAN UDARA\", \"Registration_Number\": \"920446\", \"Education\": \"PENDIDIDKAN AKADEMI TNI ANGKATAN UDARA\", \"Graduation_Date\": \"17 JULI 1995\"}}"
+    },
+    {
+        "file_name": "534030.3.1.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"YUNIKA MARLA PUSPITANINGRUM\", \"Rank\": \"SERDA\", \"Registration_Number\": \"534030\", \"Education\": \"SEKOLAH PARA DASAR\", \"Graduation_Date\": \"7 MARET 2007\"}}"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "file_name": "518832.3.1.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH\", \"Registration_Number\": \"910473\", \"Education\": \"PENDIDIKAN AKADEMI TNI ANGKATAN UDARA\", \"Rank\": \"TARUNA AKADEMI TNI ANGKATAN UDARA\", \"Graduation_Date\": \"20 JULI 1994\", \"Name\": \"AMIN RAHARDJO\"}}"
+    },
+    {
+        "file_name": "518832.3.4.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"AMIN RAHARDJO\", \"Rank\": \"LETDA TEK\", \"Registration_Number\": \"518832\", \"Education\": \"SEKOLAH DASAR KECABANGAN PERWIRA TEKNIK PESAWAT TERBANG\", \"Graduation_Date\": \"20 OKTOBER 1995\"}}"
+    },
+    {
+        "file_name": "520266.3.3.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT KETERANGAN\", \"Name\": \"RUDITO DWI WIBOWO\", \"Rank\": \"LETDA TEK\", \"Registration_Number\": \"520266\", \"Education\": \"PENDIDIKAN AKADEMI LANJUTAN\", \"Graduation_Date\": \"8 FEBRUARI 1996\"}}"
+    },
+    {
+        "file_name": "520266.3.4.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan SEKOLAH STAF\", \"Rank\": \"MAYOR TEK\", \"Name\": \"RUDITO DIWI WIBOWO\", \"Registration_Number\": \"520266\", \"Graduation_Date\": \"4 NOVEMBER 2010\"}}"
+    },
+    {
+        "file_name": "528640.3.2.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"SERSAN MAYOR UDARA KARBOL\", \"Registration_Number\": \"980548\", \"Education\": \"PENDIDIKAN AKADEMI TNI ANGKATAN UDARA\", \"Graduation_Date\": \"30 NOPEMBER 2001\"}}"
+    },
+    {
+        "file_name": "528640.3.3.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"LETDA TEK\", \"Registration_Number\": \"528640\", \"Education\": \"SEKOLAH DASAR KECABANGAN TEKNIK SENJATA\", \"Graduation_Date\": \"16 OKTOBER 2002\"}}"
+    },
+    {
+        "file_name": "528640.3.4.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"LETTU TEK\", \"Registration_Number\": \"528640\", \"Education\": \"SEKOLAH INSTRUKTUR ITC\", \"Graduation_Date\": \"3 DESEMBER 2007\"}}"
+    },
+    {
+        "file_name": "528640.3.5.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"LETTU TEK\", \"Registration_Number\": \"528640\", \"Education\": \"SEKOLAH BAHASA INQQRIS TEKHIK LANJUTAN\", \"Graduation_Date\": \"5 SEPTEMBER 2007\"}}"
+    },
+    {
+        "file_name": "528640.3.6.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"KAPTEN TEK\", \"Registration_Number\": \"528640\", \"Education\": \"KURSUS PERWIRA KESELAMATAN TERBANG DAN KERJA\", \"Graduation_Date\": \"27 JULI 2012\"}}"
+    },
+    {
+        "file_name": "528640.3.7.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SERTIFIKAT PENDIDIKAN\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"KAPTEN TEK\", \"Registration_Number\": \"528640\", \"Education\": \"KURSUS INTENSIF BHASA INGGNIS KIBI\", \"Graduation_Date\": \"18 JUNI 2009\"}}"
+    },
+    {
+        "file_name": "528640.3.8.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"SURAT KETERANGAN Komandan Komando Pemeliharaan Materiil\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"LETDA TEK\", \"Registration_Number\": \"528640\", \"Education\": \"TEKNISI DEMOLISI\", \"Graduation_Date\": \"26 SEPTEMBER 2003\"}}"
+    },
+    {
+        "file_name": "528640.3.9.jpg",
+        "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"IJAZAH Komandan Komando Pendidikan\", \"Name\": \"WISNU DESTANTO\", \"Rank\": \"KAPTEN TEK\", \"Registration_Number\": \"528640\", \"Education\": \"SEKOLAH KOMANDO KESATUAN TNI ANGKATAN UDARA\", \"Graduation_Date\": \"16 DESEMBER 2011\"}}"
+    }   
+]

@@ -1,0 +1,4 @@
+{"file_name": "518832.7.1.jpg", "ground_truth": "{\"gt_parse\": {\"Award_Date\": \"11 JANUARI 2006\", \"Award_Name\": \"PROVINSI NANGGROE ACHE DARUSSALAM\", \"Document_Title\": \"MENGANUGERAHKAN TANDA KEHORMATAN\"}}"}
+{"file_name": "521752.7.1.jpg", "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"PENGANUGERAHAN TANDA KEHORMATAN\", \"Award_Date\": \"25 JANUARI 2006\", \"Award_Name\": \"SATYALANCANA DWIDYA SISTHA\"}}"}
+{"file_name": "523351.7.3.jpg", "ground_truth": "{\"gt_parse\": {\"Award_Date\": \"3 SEPTEMBER 2007\", \"Award_Name\": \"PROVINSI NANGGROE ACEH DARUSSALAM\", \"Document_Title\": \"MENGANUGERAHKAN TANDA KEHORMATAN\"}}"}
+{"file_name": "523351.7.4.jpg", "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"PIAGAM TANDA KEHORMATAN\", \"Award_Name\": \"SATYALANCANA AUSA\", \"Award_Date\": \"DHARMA 3 SEPTEMBER 2007\"}}"}

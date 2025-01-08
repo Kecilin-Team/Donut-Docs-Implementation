@@ -1,0 +1,4 @@
+{"file_name": "520277.7.2.jpg", "ground_truth": "{\"gt_parse\": {\"Award_Date\": \"11 JANUARI 2006\", \"Award_Name\": \"PROVINSI NANGGROE ACEH DARUSSALAM\", \"Document_Title\": \"MENGANUGERAHKAN TANDA KEHORMATAN\"}}"}
+{"file_name": "521752.7.4.jpg", "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"PIAGAM TANDA KEHORMATAN\", \"Award_Name\": \"SATYALANCANA WIRA DHARMA\", \"Award_Date\": \"30 DESEMBER 2013\"}}"}
+{"file_name": "521752.7.5.jpg", "ground_truth": "{\"gt_parse\": {\"Award_Date\": \"30 DESEMBER 2013\", \"Award_Name\": \"PERBATASAN RI-MALAYSIA\", \"Document_Title\": \"MENGANUGERAHKAN TANDA KEHORMATAN\"}}"}
+{"file_name": "526245.7.1.jpg", "ground_truth": "{\"gt_parse\": {\"Document_Title\": \"PENGANUGERAHAN SATYALANCANA KESETIAAN 8 TAHUN\", \"Award_Date\": \"2 JANUARI 2008\", \"Award_Name\": \"SATYALANCANA KESETIAAN 8 TAHUN\"}}"}
