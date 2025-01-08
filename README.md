@@ -1,11 +1,11 @@
 # Donut-Docs-Implementation
 This repository utilizes Donut (Document Understanding Transformer) for information extraction from scanned images TNI-AU dataset. 
 Document Types are:
-•	Decree_On_Implementation.
-•	Military_Education_Certificate.
-•	Rank_Promotion_Degree.
 
-_________________________________
+• Decree_On_Implementation.
+• Military_Education_Certificate.
+• Rank_Promotion_Degree.
+______________________________
 ### [UPDATE]
 
 **Accuracy of Model:**
@@ -18,7 +18,6 @@ _________________________________
 
 - Military_Education_Certificate:
           - Total number of samples: 3, Tree Edit Distance (TED) based accuracy score: 0.23286052009456262, F1 accuracy score: 0.24
-
   _________________________________
 ### [UPDATE]
 
